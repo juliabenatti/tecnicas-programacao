@@ -4,7 +4,7 @@
 
 ### Download e instalação
 1. Baixar a JDK (Java Developer Kit) e instala-la: 
-> Utilize a opcao de download Windows (opcao x64 Installer). <br>
+> Utilize a opção de download Windows (opção x64 Installer). <br>
 
 https://www.oracle.com/java/technologies/downloads/#jdk17-linux
 
@@ -41,3 +41,5 @@ Para confirmar que após a instalação o JDK está disponível para o ambiente 
 O comando deve exibir a versão atual do java (JDK) instalado: </br>
 ![comando](https://lh3.googleusercontent.com/-8vkTh5r3Jf4/YJ5lL_UQtqI/AAAAAAAAGEw/wt3Gn-Z7FtcJX9CuM0ivU89knZjwsHQ-wCLcBGAsYHQ/image.png)
 
+### Instalando Intellij
+1. Baixe a versão **Community** em https://www.jetbrains.com/idea/download/#section=mac e instale com as configurações iniciais
